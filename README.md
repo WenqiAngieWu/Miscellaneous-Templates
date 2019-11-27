@@ -7,4 +7,4 @@ This repository contains several templates which are reproducible.
   - hover: hover action shows the information of the dot on a 2D _ggplot_ graph
   
 - SDE
-  - Solve dXt = b(t, Xt)dt + sigma(t, Xt)dWt
+  - Solve dX_t = b(t, X_t)dt + sigma(t, X_t)dWt
